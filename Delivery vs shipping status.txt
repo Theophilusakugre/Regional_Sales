@@ -1,0 +1,8 @@
+Quick delivery  1-3
+Late delivery     4-6
+Very late delivery   7 above
+
+
+Early shipping  1-12
+Late shipping    13-20
+Very late shipping   21 above
